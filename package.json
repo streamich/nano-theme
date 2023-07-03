@@ -26,7 +26,8 @@
   },
   "dependencies": {
     "nano-css": "^5.3.5",
-    "react-use": "^17.4.0"
+    "react-use": "^17.4.0",
+    "thingies": "^1.12.0"
   },
   "peerDependencies": {
     "react": "*"
