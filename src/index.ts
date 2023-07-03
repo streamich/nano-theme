@@ -5,4 +5,3 @@ export * from './breakpoints';
 export * from './font';
 export * from './themes/light';
 export * from './themes/dark';
-export * from './react';
