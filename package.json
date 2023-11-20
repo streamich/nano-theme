@@ -22,7 +22,8 @@
     "prettier:diff": "prettier -l 'src/**/*.{ts,tsx,js,jsx}'",
     "tslint": "tslint 'src/**/*.{js,jsx,ts,tsx}' -t verbose",
     "clean": "rimraf lib",
-    "build": "tsc"
+    "build": "tsc",
+    "test": "echo \"No tests yet.\""
   },
   "dependencies": {
     "nano-css": "^5.6.0",
