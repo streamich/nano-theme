@@ -73,10 +73,10 @@ import {theme, font, colors, b1, b2, b3, b4} from 'nano-theme';
 
 ### React Usage
 
-React integration is also provided from a separate import path.
+React integration is also provided:
 
 ```tsx
-import {Provider, GlobalCss, useTheme, useRule, makeRule} from 'nano-theme/lib/react';
+import {Provider, GlobalCss, useTheme, useRule, makeRule} from 'nano-theme';
 ```
 
 The `Provider` components sets the theme for the entire application. And `GlobalCss`
