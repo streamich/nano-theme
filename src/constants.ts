@@ -1,4 +1,4 @@
-export const enum SIZE {
+export enum SIZE {
   SITE_WIDTH = 1300,
   SITE_PADDING = 32,
   PAGE_WIDTH = 1000,
@@ -6,7 +6,7 @@ export const enum SIZE {
   SIDEBAR_WIDTH = 300,
 }
 
-export const enum ZINDEX {
+export enum ZINDEX {
   TOP_NAV = 1000,
   SIDEBAR = 1001,
   CONTEXT = 1002,
@@ -15,7 +15,7 @@ export const enum ZINDEX {
   CURSOR = 1000000,
 }
 
-export const enum SYMBOL {
+export enum SYMBOL {
   CHECKMARK = '✓',
   CROSS = '✗',
   NIL = '∅',
@@ -29,6 +29,6 @@ export const enum SYMBOL {
   SHIFT = '⇧',
 }
 
-export const enum COLOR {
+export enum COLOR {
   LINK = '#0089ff',
 }
