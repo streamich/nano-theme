@@ -738,10 +738,10 @@ supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-thingies@^1.13.0:
-  version "1.13.0"
-  resolved "https://registry.yarnpkg.com/thingies/-/thingies-1.13.0.tgz#328e737e3a5c34ada9341a0e03bf9f8418b6648a"
-  integrity sha512-JBuO53eEYpJNb7SKclSPxxYC7/ZpwjAzBTRq2+zfdSgxeaGtv7A5C9YRyjw07Gwe7ktOg+Na/iPnEB4MPBrZrQ==
+thingies@^1.13.1:
+  version "1.13.1"
+  resolved "https://registry.yarnpkg.com/thingies/-/thingies-1.13.1.tgz#4fa8059a7472e60c3069cfaeed0c19680c96507c"
+  integrity sha512-hULXJ4FOE73gc5ZZ0n+HrR1XmqLhHDRrZW9XJHolylQZCGA1wh6FPCeU8Oz+BcY0NQ/EG5vXM9pIrS8v7mmdNw==
 
 throttle-debounce@^3.0.1:
   version "3.0.1"
