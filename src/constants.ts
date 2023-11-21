@@ -12,6 +12,7 @@ export const enum ZINDEX {
   CONTEXT = 1002,
   PROGRESS = 2000,
   MODAL = 4000,
+  CURSOR = 1000000,
 }
 
 export const enum SYMBOL {

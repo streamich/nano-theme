@@ -13,7 +13,7 @@ import {addon as addonGoogleFont} from 'nano-css/addon/googleFont';
 export * from 'nano-css';
 
 const nano = create({
-  pfx: 'nano-',
+  pfx: 'nano-css',
 });
 
 addonCache(nano);
