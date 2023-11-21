@@ -688,6 +688,7 @@ stacktrace-js@^2.0.2:
     stacktrace-gps "^3.0.4"
 
 "string-width-cjs@npm:string-width@^4.2.0", string-width@^4.1.0:
+  name string-width-cjs
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
   integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
@@ -706,6 +707,7 @@ string-width@^5.0.1, string-width@^5.1.2:
     strip-ansi "^7.0.1"
 
 "strip-ansi-cjs@npm:strip-ansi@^6.0.1", strip-ansi@^6.0.0, strip-ansi@^6.0.1:
+  name strip-ansi-cjs
   version "6.0.1"
   resolved "https://registry.yarnpkg.com/strip-ansi/-/strip-ansi-6.0.1.tgz#9e26c63d30f53443e9489495b2105d37b67a85d9"
   integrity sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==
@@ -736,10 +738,10 @@ supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-thingies@^1.12.0:
-  version "1.12.0"
-  resolved "https://registry.yarnpkg.com/thingies/-/thingies-1.12.0.tgz#a815c224482d607aa70f563d3cbb351a338e4710"
-  integrity sha512-AiGqfYC1jLmJagbzQGuoZRM48JPsr9yB734a7K6wzr34NMhjUPrWSQrkF7ZBybf3yCerCL2Gcr02kMv4NmaZfA==
+thingies@^1.13.0:
+  version "1.13.0"
+  resolved "https://registry.yarnpkg.com/thingies/-/thingies-1.13.0.tgz#328e737e3a5c34ada9341a0e03bf9f8418b6648a"
+  integrity sha512-JBuO53eEYpJNb7SKclSPxxYC7/ZpwjAzBTRq2+zfdSgxeaGtv7A5C9YRyjw07Gwe7ktOg+Na/iPnEB4MPBrZrQ==
 
 throttle-debounce@^3.0.1:
   version "3.0.1"
