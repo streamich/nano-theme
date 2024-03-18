@@ -82,9 +82,9 @@
   integrity sha512-ga8y9v9uyeiLdpKddhxYQkxNDrfvuPrlFb0N1qnZZByvcElJaXthF1UhvCh9TLWJBEHeNtdnbysW7Y6Uq8CVng==
 
 "@types/react@^18.2.37":
-  version "18.2.64"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.64.tgz#3700fbb6b2fa60a6868ec1323ae4cbd446a2197d"
-  integrity sha512-MlmPvHgjj2p3vZaxbQgFUQFvD8QiZwACfGqEdDSWou5yISWxDQ4/74nCAwsUiX7UFLKZz3BbVSPj+YxeoGGCfg==
+  version "18.2.66"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.66.tgz#d2eafc8c4e70939c5432221adb23d32d76bfe451"
+  integrity sha512-OYTmMI4UigXeFMF/j4uv0lBBEbongSgptPrHBxqME44h9+yNov+oL6Z3ocJKo0WyXR84sQUNeyIp9MRfckvZpg==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
@@ -693,9 +693,9 @@ stylis@^4.3.0:
   integrity sha512-EQepAV+wMsIaGVGX1RECzgrcqRRU/0sYOHkeLsZ3fzHaHXZy4DaOOX0vOlGQdlsjkh3mFHAIlVimpwAs4dslyQ==
 
 thingies@^1.13.1:
-  version "1.17.0"
-  resolved "https://registry.yarnpkg.com/thingies/-/thingies-1.17.0.tgz#c172c423e5d3000a44666fc03723a29004ef0dcc"
-  integrity sha512-cpwd9eT9b7vcWDlJrIsfS+kBrcHEMST6DG08pOJoDkl/ToSwKYkW5x8RfBp5+k+iz1bT/dqEpoZOewg8I2lycw==
+  version "1.19.1"
+  resolved "https://registry.yarnpkg.com/thingies/-/thingies-1.19.1.tgz#65f63f6bfe8d3abc89e193f1b8c78f588135530b"
+  integrity sha512-ByrDDOohyy4AyyIEx1x/a3w0fSjH7ghH7ngjiR/UbdEFiRiq9FPI7NlaxIur1X1d44H4KnSWVwdQQwWro/5SHg==
 
 throttle-debounce@^3.0.1:
   version "3.0.1"
