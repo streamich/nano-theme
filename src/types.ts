@@ -58,6 +58,9 @@ export interface ColorPalette {
 
     /** Something to raise attention - usually yellow/orange. */
     warning: ColorTuple;
+
+    /** Brand colors. */
+    brand: string[];
   };
 
   /** Colors for specific UI elements. */
