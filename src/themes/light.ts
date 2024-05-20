@@ -23,6 +23,7 @@ export const lightTheme: Theme = {
       negative: ['#FF4949', '#EB4C31', '#DB521A'],
       warning: ['#FFC82C', '#EBC715', '#DBCC00'],
       link: ['#0089ff', '#134EEB', '#07BBEB'],
+      brand: ['#E44A28', '#985DF7', '#EE69B1', '#F6A832', '#5FCC8A', '#58B9F8'],
     },
     ui: {
       lightLine: g(0.1, 0.04),
