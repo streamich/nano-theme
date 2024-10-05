@@ -67,7 +67,7 @@ put('', {
     col: lightTheme.color.sem.link[0],
     td: 'none',
     '&:hover': {
-      col: lightTheme.color.sem.link[1],
+      col: lightTheme.color.sem.brand[0],
     },
     'p &': {
       bdb: '1px solid rgba(0,137,255,.3)',
