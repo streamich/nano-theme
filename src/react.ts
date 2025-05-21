@@ -27,10 +27,7 @@ export const useRule = (fn: StylerFunction<Theme>): string => {
   return className;
 };
 
-export const makeRule = (fn: StylerFunction<Theme>) => {
-  const useRuleEnclosed = () => useRule(fn);
-  return useRuleEnclosed;
-};
+export const makeRule = (fn: StylerFunction<Theme>) => () => useRule(fn);
 
 import useIsomorphicLayoutEffect from 'react-use/lib/useIsomorphicLayoutEffect';
 
