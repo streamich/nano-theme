@@ -69,12 +69,6 @@ put('', {
     '&:hover': {
       col: lightTheme.color.sem.brand[0],
     },
-    'p &': {
-      bdb: '1px solid rgba(0,137,255,.3)',
-      '&:hover': {
-        bdb: '1px solid rgba(244,18,36,.3)',
-      },
-    },
   },
   'button:focus,a:focus': {
     outlineOffset: '1px',
